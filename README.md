@@ -1,6 +1,6 @@
 # pKernelInterface-EFT
 
-An Escape From Tarkov Reversal project.
+An (External) Escape From Tarkov Reversal project.
 
 The use of OOP techniques in this project isn't my best, but it's something.
 
